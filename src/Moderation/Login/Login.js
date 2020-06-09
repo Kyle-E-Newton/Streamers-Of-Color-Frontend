@@ -1,7 +1,7 @@
 import React, {Component} from "react";
 import {Redirect} from 'react-router-dom'
 import Alert from 'react-s-alert';
-import {ACCESS_TOKEN} from "../Constants";
+import {ACCESS_TOKEN} from "../../Constants";
 import {login} from "../../Util/Utils";
 import './Login.css'
 
