@@ -1,0 +1,11 @@
+.stream-list {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    margin: 50px 50px 50px 0;
+    overflow-x: hidden;
+}
+
+.stream-item {
+    padding: 0 0 10px 10px;
+}

@@ -1,0 +1,15 @@
+.report-form {
+    text-align: center;
+    display: flex;
+    flex: fit-content;
+    width: 30%;
+}
+
+.report-form-platform {
+    text-align: center;
+    align-content: center;
+}
+
+.report-form-name {
+
+}

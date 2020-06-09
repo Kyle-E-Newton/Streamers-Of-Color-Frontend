@@ -1,0 +1,33 @@
+.split {
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 75px;
+    overflow-x: hidden;
+    padding-top: 200px;
+}
+
+.moderation-approval {
+    left: 0;
+}
+
+.moderation-report {
+    left: 50%;
+}
+
+.centered {
+    position: absolute;
+    left: 50%;
+    top: 25%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.moderation-report-list, .moderation-approval-list {
+    padding: 10px 10px 10px 10px;
+}
+
+.approval-item, .report-item {
+    padding: 10px 10px 10px 10px;
+}
