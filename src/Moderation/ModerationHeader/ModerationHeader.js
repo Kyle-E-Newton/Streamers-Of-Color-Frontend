@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import {Link, NavLink, Redirect} from "react-router-dom";
+import {Link, NavLink} from "react-router-dom";
 import './ModerationHeader.css'
 
 class ModerationHeader extends Component {

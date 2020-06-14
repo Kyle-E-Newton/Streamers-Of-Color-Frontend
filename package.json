@@ -2,7 +2,7 @@
   "name": "stream_promoter",
   "version": "0.1.0",
   "private": false,
-  "homepage": ".",
+  "homepage": "http://kyle-e-newton.github.io/Streamers-Of-Color-Frontend",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",

@@ -1,4 +1,4 @@
-export const API_BASE_URL = encodeURI('http://localhost:8080')
+export const API_BASE_URL = encodeURI('http://98.145.92.71:8090')
 export const ACCESS_TOKEN = 'accessToken';
 
 export const BLACK_LIVES_MATTER_DONATE = 'https://secure.actblue.com/donate/ms_blm_homepage_2019';

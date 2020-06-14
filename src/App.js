@@ -10,6 +10,7 @@ import Login from "./Moderation/Login/Login";
 import Donate from "./Statics/Donate";
 import TOS from "./Statics/TOS";
 import Copyright from "./Statics/Copyright";
+import AppFooter from "./Banner/AppFooter";
 
 function App() {
   return (
@@ -29,6 +30,9 @@ function App() {
               <Route path={"/copyright"} component={Copyright}/>
           </Switch>
       </div>
+        <div className={"app-header"}>
+            <AppFooter />
+        </div>
     </div>
   );
 }

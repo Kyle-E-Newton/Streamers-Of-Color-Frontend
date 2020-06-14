@@ -27,7 +27,7 @@ class StreamDisplay extends Component {
                 {
                     streams.map(stream =>
                         <div className={"stream-item"} key={stream.username}>
-                            <Stream_embed stream={stream}/>
+                            <StreamEmbed stream={stream}/>
                         </div>
                     )
                 }
@@ -36,7 +36,7 @@ class StreamDisplay extends Component {
     }
 }
 
-function Stream_embed(props) {
+function StreamEmbed(props) {
     const stream = props.stream;
     if(stream.platform === "TWITCH") {
         return <ReactPlayer className={"stream-video"} url={stream.streamURL} playing={false} volume={0}/>
