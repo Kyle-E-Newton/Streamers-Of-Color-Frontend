@@ -1,5 +1,5 @@
 import React from 'react';
-import {Route, Switch} from 'react-router-dom';
+import {HashRouter, Route, Switch} from 'react-router-dom';
 import './App.css';
 import AppHeader from './Banner/AppHeader';
 import Home from "./Home/Home";
@@ -19,7 +19,7 @@ function App() {
           <AppHeader />
       </div>
       <div className={"app-body"}>
-          <Switch>
+          <HashRouter basename={"/"}>
               <Route exact path={"/"} component={Home}/>
               <Route path={"/submit"} component={Submit}/>
               <Route path={"/report"} component={Report}/>
@@ -28,9 +28,9 @@ function App() {
               <Route path={"/donate"} component={Donate}/>
               <Route path={"/terms-of-service"} component={TOS}/>
               <Route path={"/copyright"} component={Copyright}/>
-          </Switch>
+          </HashRouter>
       </div>
-        <div className={"app-header"}>
+        <div className={"app-footer"}>
             <AppFooter />
         </div>
     </div>
