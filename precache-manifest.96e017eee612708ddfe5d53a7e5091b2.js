@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "79db944c49373d334bae78b7e72bd9c5",
+    "revision": "07dc50ba919466a0eedc55a58adcab51",
     "url": "/Streamers-Of-Color-Frontend/index.html"
   },
   {
-    "revision": "a5f7af020782fc9f4194",
+    "revision": "b95304917c120fea3646",
     "url": "/Streamers-Of-Color-Frontend/static/css/main.48c35b37.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Streamers-Of-Color-Frontend/static/js/14.083350ab.chunk.js"
   },
   {
-    "revision": "a5f7af020782fc9f4194",
-    "url": "/Streamers-Of-Color-Frontend/static/js/main.252b636f.chunk.js"
+    "revision": "b95304917c120fea3646",
+    "url": "/Streamers-Of-Color-Frontend/static/js/main.b72deb3b.chunk.js"
   },
   {
     "revision": "b5ac23f5b13c99856eb8",

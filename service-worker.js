@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Streamers-Of-Color-Frontend/precache-manifest.992fc5ec88c94a99bd44854012879d59.js"
+  "/Streamers-Of-Color-Frontend/precache-manifest.96e017eee612708ddfe5d53a7e5091b2.js"
 );
 
 self.addEventListener('message', (event) => {
