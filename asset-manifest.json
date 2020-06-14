@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Streamers-Of-Color-Frontend/static/css/main.48c35b37.chunk.css",
-    "main.js": "/Streamers-Of-Color-Frontend/static/js/main.7856f974.chunk.js",
-    "main.js.map": "/Streamers-Of-Color-Frontend/static/js/main.7856f974.chunk.js.map",
+    "main.js": "/Streamers-Of-Color-Frontend/static/js/main.b9bcf19f.chunk.js",
+    "main.js.map": "/Streamers-Of-Color-Frontend/static/js/main.b9bcf19f.chunk.js.map",
     "reactPlayerDailyMotion.js": "/Streamers-Of-Color-Frontend/static/js/reactPlayerDailyMotion.7ec036ff.chunk.js",
     "reactPlayerDailyMotion.js.map": "/Streamers-Of-Color-Frontend/static/js/reactPlayerDailyMotion.7ec036ff.chunk.js.map",
     "reactPlayerFacebook.js": "/Streamers-Of-Color-Frontend/static/js/reactPlayerFacebook.e430a26b.chunk.js",
@@ -32,7 +32,7 @@
     "static/js/14.083350ab.chunk.js": "/Streamers-Of-Color-Frontend/static/js/14.083350ab.chunk.js",
     "static/js/14.083350ab.chunk.js.map": "/Streamers-Of-Color-Frontend/static/js/14.083350ab.chunk.js.map",
     "index.html": "/Streamers-Of-Color-Frontend/index.html",
-    "precache-manifest.bffaf35a281553155cc61ffd2ccb572a.js": "/Streamers-Of-Color-Frontend/precache-manifest.bffaf35a281553155cc61ffd2ccb572a.js",
+    "precache-manifest.17e1aaa543897a6c3100749c88b58aaa.js": "/Streamers-Of-Color-Frontend/precache-manifest.17e1aaa543897a6c3100749c88b58aaa.js",
     "service-worker.js": "/Streamers-Of-Color-Frontend/service-worker.js",
     "static/css/main.48c35b37.chunk.css.map": "/Streamers-Of-Color-Frontend/static/css/main.48c35b37.chunk.css.map",
     "static/js/13.c7cb7a60.chunk.js.LICENSE.txt": "/Streamers-Of-Color-Frontend/static/js/13.c7cb7a60.chunk.js.LICENSE.txt",
@@ -42,6 +42,6 @@
     "static/js/runtime-main.f885d494.js",
     "static/js/13.c7cb7a60.chunk.js",
     "static/css/main.48c35b37.chunk.css",
-    "static/js/main.7856f974.chunk.js"
+    "static/js/main.b9bcf19f.chunk.js"
   ]
 }
