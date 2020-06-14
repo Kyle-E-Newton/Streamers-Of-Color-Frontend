@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "71512a4b83aa43be0538f4c17bb453ea",
+    "revision": "79db944c49373d334bae78b7e72bd9c5",
     "url": "/Streamers-Of-Color-Frontend/index.html"
   },
   {
-    "revision": "36b2547a9ec9cb783ae1",
+    "revision": "a5f7af020782fc9f4194",
     "url": "/Streamers-Of-Color-Frontend/static/css/main.48c35b37.chunk.css"
   },
   {
-    "revision": "440d7e373026e4d86a2c",
-    "url": "/Streamers-Of-Color-Frontend/static/js/13.773e2610.chunk.js"
+    "revision": "07cbd2d03740caf1853e",
+    "url": "/Streamers-Of-Color-Frontend/static/js/13.c7cb7a60.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/Streamers-Of-Color-Frontend/static/js/13.773e2610.chunk.js.LICENSE.txt"
+    "url": "/Streamers-Of-Color-Frontend/static/js/13.c7cb7a60.chunk.js.LICENSE.txt"
   },
   {
     "revision": "c7988ecc17d12a545f6b",
     "url": "/Streamers-Of-Color-Frontend/static/js/14.083350ab.chunk.js"
   },
   {
-    "revision": "36b2547a9ec9cb783ae1",
-    "url": "/Streamers-Of-Color-Frontend/static/js/main.cfc17c7c.chunk.js"
+    "revision": "a5f7af020782fc9f4194",
+    "url": "/Streamers-Of-Color-Frontend/static/js/main.252b636f.chunk.js"
   },
   {
     "revision": "b5ac23f5b13c99856eb8",

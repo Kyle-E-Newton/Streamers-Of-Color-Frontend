@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Streamers-Of-Color-Frontend/static/css/main.48c35b37.chunk.css",
-    "main.js": "/Streamers-Of-Color-Frontend/static/js/main.cfc17c7c.chunk.js",
-    "main.js.map": "/Streamers-Of-Color-Frontend/static/js/main.cfc17c7c.chunk.js.map",
+    "main.js": "/Streamers-Of-Color-Frontend/static/js/main.252b636f.chunk.js",
+    "main.js.map": "/Streamers-Of-Color-Frontend/static/js/main.252b636f.chunk.js.map",
     "reactPlayerDailyMotion.js": "/Streamers-Of-Color-Frontend/static/js/reactPlayerDailyMotion.7ec036ff.chunk.js",
     "reactPlayerDailyMotion.js.map": "/Streamers-Of-Color-Frontend/static/js/reactPlayerDailyMotion.7ec036ff.chunk.js.map",
     "reactPlayerFacebook.js": "/Streamers-Of-Color-Frontend/static/js/reactPlayerFacebook.e430a26b.chunk.js",
@@ -27,21 +27,21 @@
     "reactPlayerYouTube.js.map": "/Streamers-Of-Color-Frontend/static/js/reactPlayerYouTube.aacba187.chunk.js.map",
     "runtime-main.js": "/Streamers-Of-Color-Frontend/static/js/runtime-main.f885d494.js",
     "runtime-main.js.map": "/Streamers-Of-Color-Frontend/static/js/runtime-main.f885d494.js.map",
-    "static/js/13.773e2610.chunk.js": "/Streamers-Of-Color-Frontend/static/js/13.773e2610.chunk.js",
-    "static/js/13.773e2610.chunk.js.map": "/Streamers-Of-Color-Frontend/static/js/13.773e2610.chunk.js.map",
+    "static/js/13.c7cb7a60.chunk.js": "/Streamers-Of-Color-Frontend/static/js/13.c7cb7a60.chunk.js",
+    "static/js/13.c7cb7a60.chunk.js.map": "/Streamers-Of-Color-Frontend/static/js/13.c7cb7a60.chunk.js.map",
     "static/js/14.083350ab.chunk.js": "/Streamers-Of-Color-Frontend/static/js/14.083350ab.chunk.js",
     "static/js/14.083350ab.chunk.js.map": "/Streamers-Of-Color-Frontend/static/js/14.083350ab.chunk.js.map",
     "index.html": "/Streamers-Of-Color-Frontend/index.html",
-    "precache-manifest.91db0709b1c716438330e31adad22c0c.js": "/Streamers-Of-Color-Frontend/precache-manifest.91db0709b1c716438330e31adad22c0c.js",
+    "precache-manifest.992fc5ec88c94a99bd44854012879d59.js": "/Streamers-Of-Color-Frontend/precache-manifest.992fc5ec88c94a99bd44854012879d59.js",
     "service-worker.js": "/Streamers-Of-Color-Frontend/service-worker.js",
     "static/css/main.48c35b37.chunk.css.map": "/Streamers-Of-Color-Frontend/static/css/main.48c35b37.chunk.css.map",
-    "static/js/13.773e2610.chunk.js.LICENSE.txt": "/Streamers-Of-Color-Frontend/static/js/13.773e2610.chunk.js.LICENSE.txt",
+    "static/js/13.c7cb7a60.chunk.js.LICENSE.txt": "/Streamers-Of-Color-Frontend/static/js/13.c7cb7a60.chunk.js.LICENSE.txt",
     "static/media/POCLogo.png": "/Streamers-Of-Color-Frontend/static/media/POCLogo.f5320c03.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f885d494.js",
-    "static/js/13.773e2610.chunk.js",
+    "static/js/13.c7cb7a60.chunk.js",
     "static/css/main.48c35b37.chunk.css",
-    "static/js/main.cfc17c7c.chunk.js"
+    "static/js/main.252b636f.chunk.js"
   ]
 }
