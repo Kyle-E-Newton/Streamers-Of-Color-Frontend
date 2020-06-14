@@ -9,14 +9,14 @@ class AppHeader extends Component {
             <header className={"app-header"}>
                 <div className={"container"}>
                     <div className={"app-branding"}>
-                        <Link to={"/"} className={"app-title"}><img className={"poc-logo"} src={poclogo}/></Link>
+                        <Link to={"/Streamers-Of-Color-Frontend/"} className={"app-title"}><img className={"poc-logo"} src={poclogo}/></Link>
                     </div>
                     <div className={"app-options"}>
                         <nav className={"app-nav"}>
                             <ul>
                                 <li>
-                                    <NavLink to={"/submit"}>Submit a Streamer!</NavLink>
-                                    <NavLink to={"/report"}>Report Abuse</NavLink>
+                                    <NavLink to={"/Streamers-Of-Color-Frontend/submit"}>Submit a Streamer!</NavLink>
+                                    <NavLink to={"/Streamers-Of-Color-Frontend/report"}>Report Abuse</NavLink>
                                 </li>
                             </ul>
                         </nav>

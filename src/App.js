@@ -20,14 +20,14 @@ function App() {
       </div>
       <div className={"app-body"}>
           <HashRouter basename={"/"}>
-              <Route path={"/Streamers-Of-Color-Frontend/"} component={Home}/>
-              <Route path={"/Streamers-Of-Color-Frontend/submit"} component={Submit}/>
-              <Route path={"/Streamers-Of-Color-Frontend/report"} component={Report}/>
-              <Route path={"/Streamers-Of-Color-Frontend/moderation"} component={ModerationHome}/>
-              <Route path={"/Streamers-Of-Color-Frontend/login"} component={Login}/>
-              <Route path={"/Streamers-Of-Color-Frontend/donate"} component={Donate}/>
-              <Route path={"/Streamers-Of-Color-Frontend/terms-of-service"} component={TOS}/>
-              <Route path={"/Streamers-Of-Color-Frontend/copyright"} component={Copyright}/>
+              <Route path={"/"} component={Home}/>
+              <Route path={"/submit"} component={Submit}/>
+              <Route path={"/report"} component={Report}/>
+              <Route path={"/moderation"} component={ModerationHome}/>
+              <Route path={"/login"} component={Login}/>
+              <Route path={"/donate"} component={Donate}/>
+              <Route path={"/terms-of-service"} component={TOS}/>
+              <Route path={"/copyright"} component={Copyright}/>
           </HashRouter>
       </div>
         <div className={"app-footer"}>
