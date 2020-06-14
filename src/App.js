@@ -19,7 +19,7 @@ function App() {
           <AppHeader />
       </div>
       <div className={"app-body"}>
-          <HashRouter basename={"/"}>
+          <HashRouter basename={"/Streamers-Of-Color-Frontend"}>
               <Route exact path={"/"} component={Home}/>
               <Route path={"/submit"} component={Submit}/>
               <Route path={"/report"} component={Report}/>
